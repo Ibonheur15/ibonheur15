@@ -7,7 +7,7 @@ I'm a passionate **tech entrepreneur** and **CEO of Posinnove**,
 
 ## 📈 Bonheur's GitHub Stats
 
-![Bonheur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibonheur15&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibonheur15&show_icons=true&theme=gruvbox)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ibonheur15&layout=compact&theme=radical)
 
