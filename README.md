@@ -23,7 +23,7 @@ Content creator in the field of **technopreneurship**. I share insights on **tec
 
 ## 📈 GitHub Stats
 
-![Bonheur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
+![Bonheur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibonheur15&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
 
 ---
 
