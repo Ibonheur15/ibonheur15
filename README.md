@@ -12,7 +12,7 @@
 ---
 ### 🧰 Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,cpp,figma,mongodb,nodejs,postman,react,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,ts,cpp,figma,mongodb,nodejs,postman,react,tailwind)](https://skillicons.dev)
 
 ---
 
