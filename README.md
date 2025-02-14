@@ -1,7 +1,3 @@
-# Hello, I'm Bonheur IRAGUHA 👋
-
-I'm a passionate **tech entrepreneur** and **CEO of Posinnove**, 
-
 ---
 
 
